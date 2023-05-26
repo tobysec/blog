@@ -1,0 +1,4 @@
+baseURL = 'https://tobysec.github.io'
+languageCode = 'en-us'
+title = 'RedstoneLayer Site'
+theme = 'hugo-theme-stack'
